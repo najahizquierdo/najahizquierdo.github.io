@@ -226,8 +226,8 @@
   .textonline {
     font-size: large;
     font-family: VT323;
-    margin-right: 10%;
-    margin-top: 10%;
+    margin-top: 30%;
+    padding:10px;
     width: 30%;
     float: right;
   }
