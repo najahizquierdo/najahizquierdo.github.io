@@ -134,7 +134,7 @@
   from, to { border-color: transparent }
   50% { border-color:black; }
   }
-  .playlistshit {
+  .playlists {
     font-size: 90%;
     border: 3px solid lightpink;
     background-color: rgb(240, 120, 140);
@@ -223,7 +223,7 @@
     float: left;
     height: 40%;
   }
-  .text-n-shit{
+  .textonline {
     font-size: large;
     font-family: VT323;
     margin-right: 10%;
