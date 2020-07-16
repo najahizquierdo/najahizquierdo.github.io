@@ -61,8 +61,8 @@
 
 .contact {
   width: 100%;
-  margin-top: 30%;
-  height: 130px;
+  margin-top: 15%;
+  height: 120px;
   float:left;
   border: 3px solid lightpink;
   background-color: pink;
@@ -160,11 +160,10 @@
   }
   
   .media-player {
-  border-radius: 15px 15px 15px 15px;
-  width: 430px;
-  margin-left: -15px;
-  float:left;
-  padding: 20px;
+    border-radius: 30px;
+    width: 430px;
+    float: left;
+    padding: 20px;
   }
   
   body {
