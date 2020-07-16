@@ -1,0 +1,248 @@
+
+.tab-3 {
+  width: 23%;
+  font-size: 150%;
+  border: 3px solid lightpink;
+  background-color: pink;
+  border-radius: 15px 15px 15px 15px;
+  text-decoration: none;
+  margin-left: -10px;
+  font-weight: bold;
+  padding: 15px;
+  color: rgb(240, 120, 140);
+  font-family: VT323;
+}
+.submit {
+  width: 90%;
+  font-size: 100%;
+  border: 3px solid lightpink;
+  background-color: pink;
+  border-radius: 15px 15px 15px 15px;
+  text-decoration: none;
+  
+  font-weight: bold;
+  padding: 15px;
+  color: rgb(240, 120, 140);
+  font-family: VT323;
+}
+.tab-3-hover{
+  text-align: left;
+  font-size: 1.5em;
+  margin-top: 120px;
+  border: 3px solid lightpink;
+  background-color: rgb(240, 120, 140);
+  border-radius: 15px 15px 0px 0px;
+  text-decoration: none;
+  margin-left: -10px;
+  font-weight: bold;
+  text-align: left;
+  padding: 15px;
+  color: pink;
+  font-family: VT323;
+}
+.tab-3-hover-1{
+  text-align: left;
+  font-size: 1.5em;
+  margin-top: 120px;
+  border: 3px solid grey;
+  background-color:black;
+  border-radius: 15px 15px 0px 0px;
+  text-decoration: none;
+  margin-left: -10px;
+  font-weight: bold;
+  text-align: left;
+  padding: 15px;
+  color:grey;
+  font-family: VT323;
+}
+
+
+
+
+.contact {
+  width: 100%;
+  margin-top: 30%;
+  height: 130px;
+  float:left;
+  border: 3px solid lightpink;
+  background-color: pink;
+  border-radius: 15px 15px 15px 15px;
+  text-decoration: none;
+  margin-left: -1%;
+  }
+  .contact a {
+  font-weight: bold;
+  font-size: 200%;
+  text-align: left;
+  margin-top: 5%;
+  padding: 15px;
+  color: rgb(240, 120, 140);
+  font-family: VT323;
+  text-decoration: none;
+  }
+  b {
+    color:black;
+  }
+  .chatroom{
+    margin-left: 3.9%;
+    font-family: VT323;
+    font-size:  x-large;
+    color: white;
+    background-color: pink;
+    width: 90%;
+    height: 50%;
+    border-radius: 15px 15px 0px 0px;
+    border: 8px solid  rgb(240, 120, 140);
+  }
+  .textarea {
+
+    font-size: larger;
+    width: 90%;
+    text-align: left;
+    font-family: VT323;
+    height: 140px;
+    color: #221811;
+    background-color: white;
+    border-radius: 0px 0px 15px 15px;
+    border: 8px solid  rgb(240, 120, 140);
+  }
+  .drop-down-main{
+    display: none;
+  }
+  .textareachat
+  {
+    font-size: larger;
+  font-family: VT323;
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .20em solid black; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation:
+    typing 3.5s steps(40, end),
+    blink-caret .50s step-end infinite;
+  }
+  
+  /* The typing effect */
+  @keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+  }
+  
+  /* The typewriter cursor effect */
+  @keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color:black; }
+  }
+  .playlistshit {
+    font-size: 90%;
+    border: 3px solid lightpink;
+    background-color: rgb(240, 120, 140);
+    border-radius: 0px 0px 15px 15px;
+    width: 83%;
+    margin-left: 5%;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: left;
+    padding: 20px;
+    color: pink;
+    font-family: VT323;
+  }
+  a:hover {
+    cursor:url('xp-middle-finger.cur'), pointer;
+   }
+  
+  .name {
+    text-align: left;
+    font-family: VT323;
+    font-weight: bold;
+    font-size: 300%;
+  }
+  
+  .media-player {
+  border-radius: 15px 15px 15px 15px;
+  width: 430px;
+  margin-left: -15px;
+  float:left;
+  padding: 20px;
+  }
+  
+  body {
+  
+    cursor: url('xp-middle-finger.cur'), auto;
+  text-align: center;
+  background-image:url('casestudystarters/sparkle.gif'); background-repeat:repeat;
+  color: #221811;
+  font-family: Verdana, Arial, sans-serif;
+  
+  }
+  
+  h1 { font-size: 3em;
+  padding-top: 45px;
+  padding-left: 220px;
+  
+  }
+  
+  img{
+  padding-left:10px;
+  padding-right: 10px;
+  
+  }
+  main {
+    padding: 15px;
+    margin: 10px;
+    margin-top: 30px;
+  }
+  .main-header {
+    margin-top: -20px;
+    width: 33%;
+    margin-left: 2%;
+    float:left;
+    height: 430px;
+    padding-top: 20px;
+    background-color: white;
+  }
+  .main-body {
+      float: right;
+      margin-top: -20px;
+      width: 60%;
+      height: 650px;
+      padding-top: 20px;
+      background-color: white;
+    
+  }
+  .online {
+    padding: 15px;
+    width: 110px;
+  }
+  .right {
+    float: right;
+    height: 40%;
+  }
+  .left {
+    float: left;
+    height: 40%;
+  }
+  .text-n-shit{
+    font-size: large;
+    font-family: VT323;
+    margin-right: 10%;
+    margin-top: 10%;
+    width: 30%;
+    float: right;
+  }
+  .selfie {
+    margin-top: 60px;
+    margin-left: 20px;
+    width: 250px;
+    float: left;
+  }
+  
+  .aim {
+    margin-top: 10px;
+    width: 70%;
+  }
+  .hide {
+    display: none;
+  }
+  
