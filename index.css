@@ -223,7 +223,7 @@
     height: 40%;
   }
   .textonline {
-    font-size: large;
+    font-size: 75vh;
     font-family: VT323;
     margin-top: 10%;
     padding:10px;
